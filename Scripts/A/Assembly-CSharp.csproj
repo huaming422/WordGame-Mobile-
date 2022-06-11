@@ -1,0 +1,72 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net35</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>4</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="System.Core" />
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Mono.Data.Sqlite">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\Mono.Data.Sqlite.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Tapjoy">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\Tapjoy.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="Tapjoy.Android">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\Tapjoy.Android.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

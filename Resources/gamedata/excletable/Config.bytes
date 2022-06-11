@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+  <!--字段属性：
+        descript : 代码中的注释
+        count: 表示 数据长度 1单个数据； 大于1表示定长数组； -1表示不定长数组，只能出现在字段的最后
+        name:字段的名字 在代码中直接用name属性访问数据
+        type:字段的类型 支持表的嵌套   
+      
+      表属性：
+        fieldCount：表示表在Excel文件中有多少列 如果Excel文件中有额外数 最好加上
+  -->
+  <!--关卡配置-->
+  <table name ="GameLevelConfig">
+    <field name="id" type ="int"> </field>
+    <field name="gameType" type ="string"> </field>
+    <field name="itemCount" type ="int"> </field>
+  </table>
+
+  <table name ="WordsList">
+    <field name="level" type ="int"> </field>
+    <field name="letters" type ="string"> </field>
+    <field name="bouns" type ="string" count="8"> </field>
+  </table>
+
+</tables>

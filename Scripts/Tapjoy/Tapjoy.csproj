@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Tapjoy</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net35</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>4</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\school of motion\studio game apk\All best extarcts\All word games\WordCute Free Word PuzzleGame\com.sagafun.wordgames_2019-05-16\assets\bin\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
